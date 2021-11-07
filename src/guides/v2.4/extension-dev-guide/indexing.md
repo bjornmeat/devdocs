@@ -140,9 +140,11 @@ To set these options:
 
 You can also reindex from the [command line]({{ page.baseurl }}/config-guide/cli/config-cli-subcommands-index.html#configure-indexers)
 
-The following figure shows an example of setting indexers to Update by Schedule:
+The following figure shows an example of setting indexers to Update by Schedule (Please note that the Customer Grid is not supporting Update by Schedule, as stated above):
 
 ![Changing indexer modes]({{ site.baseurl }}/common/images/index_index-modes.png){:width="600px"}
+
+
 
 ### Mview {#m2devgde-mview}
 
